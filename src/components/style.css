@@ -1,0 +1,16 @@
+body {
+  overflow: hidden;
+}
+.container-fluid {
+  height: 100vh;
+}
+.gridheights {
+  height: 95%;
+}
+.button-container {
+  overflow-y: auto;
+  height: 90%;
+}
+pre {
+  color: #d2d2d2;
+}
